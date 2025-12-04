@@ -7,10 +7,9 @@ I'm a software engineer with over 1 year of experience building scalable, mainta
 ## 🚀 What I Do
 
 - 🏗️ Build enterprise-grade applications with **React**, **Angular**, **Next.js**, **Spring Boot**, **.NET**, and **Node.js**
-- ☁️ Deploy and orchestrate microservices using **Docker**, **AWS**, and **Azure**
+- ☁️ Deploy and orchestrate services using **Docker**, **AWS**, and **Azure**
 - 🤖 Develop AI/ML models with **TensorFlow**, **PyTorch**, and **Scikit-Learn**
 - 📐 Apply **Clean Architecture**, **SOLID principles**, and design patterns for maintainable code
-- 🔄 Implement CI/CD pipelines and observability with **GitHub Actions**, **Serilog**, and **OpenTelemetry**
 
 ## 💼 Current Focus
 
@@ -25,7 +24,7 @@ Working on full-stack e-commerce solutions at **Endava**, leveraging:
 **Frontend**: React.js, Next.js, Angular, Ionic, Tailwind CSS  
 **Backend**: Spring Boot, .NET, Node.js, NestJS, Django, Flask, FastAPI  
 **Databases**: PostgreSQL, MongoDB, MySQL, SQL Server  
-**Cloud & DevOps**: Docker, Kubernetes, AWS, Azure, GitHub Actions  
+**Cloud & DevOps**: Docker, Kubernetes, AWS, Azure
 **AI/ML**: TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas
 
 ## 🌟 Highlighted Projects
