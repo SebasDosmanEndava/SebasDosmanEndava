@@ -13,9 +13,9 @@ I'm a software engineer with over 1 year of experience building scalable, mainta
 
 ## 💼 Current Focus
 
-Working on full-stack e-commerce solutions at **Endava**, leveraging:
-- **Frontend**: Next.js 14, React 18, TypeScript, Tailwind CSS, Atomic Design
-- **Backend**: .NET 8, Clean Architecture, EF Core, PostgreSQL
+Working on full-stack solutions at **Endava**, leveraging:
+- **Frontend**: Next.js, React, Angular, Ionic, Tailwind CSS
+- **Backend**: .NET, Spring Boot, NestJS, PostgreSQL, MySQL, MongoDB
 - **DevOps**: Docker, Azure (ACR, ACI, Key Vault), AWS (EC2, S3)
 
 ## 🛠️ Tech Stack
